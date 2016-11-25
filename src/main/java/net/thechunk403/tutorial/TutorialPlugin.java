@@ -1,4 +1,4 @@
-package net.thebench403.tutorial;
+package net.thechunk403.tutorial;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
